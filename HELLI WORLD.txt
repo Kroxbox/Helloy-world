@@ -1,1 +1,2 @@
 print("Helloy wordl")
+print("Helloy all")
